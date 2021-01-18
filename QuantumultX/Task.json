@@ -80,6 +80,5 @@
     "*/20 * * * * https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/Task/qczjspeed.js, tag=汽车之家极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qczj.png",
     "*/15 10-14 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.js, tag=小乐, img-url=https://raw.githubusercontent.com/58xinian/icon/master/qqVipCheckIn.png",
     "0 8 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/58xinian/icon/master/TencentStock.png",
-    "0 3 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xp.png",
  ]
 }
