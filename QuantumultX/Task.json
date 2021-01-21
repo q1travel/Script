@@ -33,7 +33,7 @@
     "15 10 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力 , img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jd_cww.png",
     "11 1-23/5 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js, tag=京小超 , img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jxc.png",
     "57,58,59 59 23 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_blueCoin.js, tag=京小超兑换奖品1, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jxc.png",
-    "0,1,2 0 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_blueCoin.js, tag=京小超兑换奖品2, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jxc.png",
+    "0,1,2 0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js, tag=京小超兑换奖品2, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jxc.png",
     "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-product.js, tag=京小超升级商品 , img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jxc.png",
     "0 9 */2 * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-shelf.js, tag=京小超升级货架 , img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jxc.png",
     "10 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js, tag=京小超领蓝币 , img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jxc.png",
