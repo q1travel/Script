@@ -60,7 +60,7 @@
     "10 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_sx.js, tag=海产新年抽奖, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jd.png",
     "0 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal.js, tag=京东神仙书院, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jd.png",
     "30 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_opencard.js,tag=新开会员, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jd.png",
-    "0 9 * * * https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_joy_Sports.js,tag=joy总动员, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jd.png",
+    "0 6 * * * https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_joy_Sports.js,tag=joy总动员, img-url=https://raw.githubusercontent.com/shengliu7/Script/main/jd_Script/jd_icon/jd.png",
     "10 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_ms.jpg",
     "0 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js, tag=东东爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_xxl.jpg",
     "5 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_xg.js, tag=小鸽有礼, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_xg.jpg",
