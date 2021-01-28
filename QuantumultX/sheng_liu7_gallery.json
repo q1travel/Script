@@ -58,9 +58,9 @@
 
     "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car.js, tag=汽车签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_car_light.png",
 
-    "57,58,59 59 23 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_car_exchange_dark.png",
+    "57,58,59 59 23 * * * https://raw.githubusercontent.com/ZhiYi-N/abc/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_car_exchange_light.png",
 
-    "0,1,2,3 0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_car_exchange_dark.png",
+    "0,1,2,3 0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_car_exchange_light.png",
 
     "1 1 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_redPacket.js , tag=全民开红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_redPacket_light.png",
 
