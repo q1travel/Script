@@ -168,6 +168,8 @@
 
     "10 10 29-31,1 1,2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_temp_samsung.js, tag=星意送好礼, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
 
+    "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
+
     "*/10 6-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
 
     "0 6-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
