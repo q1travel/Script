@@ -58,7 +58,6 @@
     "1 7-21/2 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_plantBean_light.png",
     "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js, tag=CrazyJoy任务, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_crazy_joy_light.png",
     "1 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js, tag=年货节, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_nh_light.png",
-    "0 9,12,20,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js, tag=炸年兽, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_nian_light.png",
     "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js, tag=京东神仙书院, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_immortal_light.png",
     "20 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js, tag=京东神仙书院答题, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_immortal_answer_light.png",
     "15 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_festival.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg",
