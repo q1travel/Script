@@ -22,7 +22,6 @@
     "8 */3 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed.js , tag=天天加速, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_speed_light.png",
     "10 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_shop.js , tag=进店领豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_shop_light.png",
     "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_sgmh_light.png",
-    "10-20/5 12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_live.js, tag=直播签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_live_light.png",
     "10 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_kd.js, tag=快递签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_kd_light.png",
     "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car.js, tag=汽车签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_car_light.png",
     "57,58,59 59 23 * * * https://raw.githubusercontent.com/ZhiYi-N/abc/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_car_exchange_light.png",
