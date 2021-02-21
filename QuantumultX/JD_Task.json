@@ -66,7 +66,7 @@
     "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "0 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
-    "15 17 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/xmSports.png",
+    "15 17 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/xmSports.png",
     "*/10 6-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
     "0 6-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
     "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
