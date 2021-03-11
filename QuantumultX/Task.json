@@ -27,7 +27,7 @@
     "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js, tag=十元街, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_syj_light.png",
     "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=抽奖机, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_lotteryMachine_light.png",
     "20 0,20 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js , tag=点点券, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_necklace_light.png",
-    "7 0,6,9 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://github.com/58xinian/icon/raw/master/jd_paopao.png",
+    "7 0,6,9 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/script/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://github.com/58xinian/icon/raw/master/jd_paopao.png",
     "8 */3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed.js , tag=天天加速, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_speed_light.png",
     "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_shop.js , tag=进店领豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_shop_light.png",
     "20 8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_sgmh_light.png",
@@ -81,5 +81,7 @@
     "0 9 8-31 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global.js, tag=环球挑战赛第二季, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "10 10 * * *   https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag= 京东小魔方, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
+    "15 10 10-31 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_unionPoster.js, tag=美的家电节, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
+    "13 8,10 8-15 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_superDay.js, tag=超级品类日, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
  ]
 }
