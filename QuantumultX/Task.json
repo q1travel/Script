@@ -3,7 +3,6 @@
   "description": "该订阅均来源Github；Task模块配置 By shengliu7",
   "task": [
     "0 0-21/3 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png",
-    "8 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png",
     "15 17 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/xmSports.png",
     "*/10 6-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
     "0 6-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
