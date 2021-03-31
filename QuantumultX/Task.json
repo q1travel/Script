@@ -16,5 +16,6 @@
     "3 10 * * * https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "15 12 * * * https://raw.githubusercontent.com/monk-coder/dust/dust/car/monk_shop_add_to_car.js, tag=加购有礼, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "15 15 * * * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_shop_follow_sku.js, tag=关注有礼, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
+    "0 0 * * * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_inter_shop_sign.js, tag=interCenter渠道店铺签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
  ]
 }
