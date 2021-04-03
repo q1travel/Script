@@ -10,6 +10,7 @@
     "0,1,2 0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_blueCoin.js, tag=东东超市兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_superMarket_light.png", 
     "57,58,59 59 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_car_exchange_light.png",
     "0,1,2,3 0 0 * * * https://raw.githubusercontent.com/ZhiYi-N/abc/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_car_exchange_light.png",
+    "0 1 * * * https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js, tag=京东试用, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "3 3,23 * * * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_shop_lottery.js, tag=店铺大转盘, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "5 1,6,11,16,21 * 3-4 *  https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_super5g.js, tag=5G超级盲盒, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "5 8,14,20 17-25 3 * https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js, tag=母婴-跳一跳, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
