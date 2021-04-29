@@ -17,6 +17,5 @@
     "57,58,59 59 23 * * * https://raw.githubusercontent.com/wuzhi03/MyActions/main/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jx_cfd_light.png",
     "30 20-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点京豆雨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
-
  ]
 }
