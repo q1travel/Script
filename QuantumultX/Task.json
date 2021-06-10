@@ -74,7 +74,7 @@
     "11 * * * * https://raw.githubusercontent.com/shengliu7/Script/main/QuantumultX/Scripts/superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_superMarket_light.png",
     "10 0,7,23 * * * https://raw.githubusercontent.com/shengliu7/Script/main/QuantumultX/Scripts/syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "0 0 0 * * * https://raw.githubusercontent.com/shengliu7/Script/main/QuantumultX/Scripts/xtg.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
-    "0 0 0 * * * https://raw.githubusercontent.com/shengliu7/Script/main/QuantumultX/Scripts/xtg_help.jss, tag=家电星推官好友互助, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
+    "0 0 0 * * * https://raw.githubusercontent.com/shengliu7/Script/main/QuantumultX/Scripts/xtg_help.js, tag=家电星推官好友互助, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "33 0,6-23/2 * * * https://raw.githubusercontent.com/shengliu7/Script/main/QuantumultX/Scripts/zoo.js, tag=618动物联萌, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
     "0-59/30 * * * * https://raw.githubusercontent.com/shengliu7/Script/main/QuantumultX/Scripts/zooCollect.js, tag=618动物联萌收集金币, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_bean_sign_light.png",
   ]
