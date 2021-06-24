@@ -33,16 +33,16 @@ let jdNotify = true;//是否关闭通知，false打开通知推送，true关闭�
 let cookiesArr = [], cookie = '', message;
 let helpAuthor = true;
 const randomCount = $.isNode() ? 20 : 5;
-let cashinviteCode = '';
-let cashinviteCode2 = '';
-let cashinviteCode3 = '';
-let cashinviteCode4 = '';
-let cashinviteCode5 = '';
-let cashinviteCode6 = '';
-let cashinviteCode7 = '';
-let cashinviteCode8 = '';
-let cashinviteCode9 = '';
-let cashinviteCode10 = '';
+let cashinviteCode = 'eU9YPYnLGL1yozuIuDBk';
+let cashinviteCode2 = 'eU9YarizNa8h8m7cwnoR3g';
+let cashinviteCode3 = 'eU9YDLjPOYJ1qzGrvQl3';
+let cashinviteCode4 = 'eU9Ya-iyYP1y9G3cw3AXgA';
+let cashinviteCode5 = 'eU9Yar7kZ6p08zuHwnZB1A';
+let cashinviteCode6 = 'eU9YLbjbGaJ1gxOCvwtG';
+let cashinviteCode7 = 'eU9YaL-yZKkgpGzWwiIWgw';
+let cashinviteCode8 = 'IhgxZey6b_ou8Wu6iw';
+let cashinviteCode9 = 'ZE9JNJT1H7VjqjmXvzVX';
+let cashinviteCode10 = 'eU9YO4jsNIF5kRGEqCRw';
 if (process.env.cashinviteCode) {
   cashinviteCode = process.env.cashinviteCode;
 }
