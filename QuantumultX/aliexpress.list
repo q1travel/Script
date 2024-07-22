@@ -1,8 +1,8 @@
-HOST-KEYWORD,www.aliexpress.com,Aliexpress
-HOST-KEYWORD,feedback.aliexpress.com,Aliexpress
-HOST-KEYWORD,shoprenderview.aliexpress.com,Aliexpress
-HOST-KEYWORD,acs.aliexpress.com,Aliexpress
-HOST-KEYWORD,recom-acs.aliexpress.com,Aliexpress
-HOST-KEYWORD,moduleanalysis.aliexpress.com,Aliexpress
-HOST-KEYWORD,login.aliexpress.us,Aliexpress
-HOST-KEYWORD,login.aliexpress.ru,Aliexpress
+HOST-SUFFIX,www.aliexpress.com,Aliexpress
+HOST-SUFFIX,feedback.aliexpress.com,Aliexpress
+HOST-SUFFIX,shoprenderview.aliexpress.com,Aliexpress
+HOST-SUFFIX,acs.aliexpress.com,Aliexpress
+HOST-SUFFIX,recom-acs.aliexpress.com,Aliexpress
+HOST-SUFFIX,moduleanalysis.aliexpress.com,Aliexpress
+HOST-SUFFIX,login.aliexpress.us,Aliexpress
+HOST-SUFFIX,login.aliexpress.ru,Aliexpress
