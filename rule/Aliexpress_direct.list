@@ -1,1 +1,3 @@
-DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,csp.aliexpress.com,DIRECT
+DOMAIN-SUFFIX,sg-cgmp.aliexpress.com,DIRECT
+DOMAIN-SUFFIX,dchain-web.aliexpress.com,DIRECT
